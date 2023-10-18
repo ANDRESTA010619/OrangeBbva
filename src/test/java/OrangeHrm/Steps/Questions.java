@@ -43,8 +43,6 @@ public class Questions {
 
 		}
 
-
-		
 	}
 
 	public void timeSeconds(int seconds){
